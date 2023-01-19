@@ -1,0 +1,21 @@
+VISTAS
+- Pantalla de inicio
+- Menú de pausa
+- Fin de partida/Siguiente nivel
+- Diseño de niveles
+
+ENTIDADES
+
+Jugador
+	- Movimiento
+	- Daño
+	- Sumar puntos
+	- Timer/timeout
+	- Alcanzar meta
+
+Monedas
+	- Colisión/sumar puntos
+
+Enemigos
+	- Movimiento (por tipo): Ratón, Calavera, Murciélago
+	- Colisión/causar daño
