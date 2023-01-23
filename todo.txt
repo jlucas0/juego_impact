@@ -8,12 +8,9 @@ ENTIDADES
 
 Jugador
 	- Daño
-	- Sumar puntos
 	- Timer/timeout
 	- Alcanzar meta
 
-Monedas
-	- Colisión/sumar puntos
 
 Enemigos
 	- Movimiento (por tipo): Ratón, Calavera, Murciélago
