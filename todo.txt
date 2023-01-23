@@ -7,7 +7,6 @@ VISTAS
 ENTIDADES
 
 Jugador
-	- Movimiento
 	- Daño
 	- Sumar puntos
 	- Timer/timeout
