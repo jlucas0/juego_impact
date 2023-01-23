@@ -19,3 +19,10 @@ Monedas
 Enemigos
 	- Movimiento (por tipo): Ratón, Calavera, Murciélago
 	- Colisión/causar daño
+
+SONIDO
+- Movimiento y salto
+- Impacto
+- Recoger moneda
+- Música de menú
+- Música de juego
