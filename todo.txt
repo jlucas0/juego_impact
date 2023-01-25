@@ -11,11 +11,6 @@ Jugador
 	- Timer/timeout
 	- Alcanzar meta
 
-
-Enemigos
-	- Movimiento (por tipo): Ratón, Calavera, Murciélago
-	- Colisión/causar daño
-
 SONIDO
 - Movimiento y salto
 - Impacto
