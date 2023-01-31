@@ -7,9 +7,8 @@ VISTAS
 ENTIDADES
 
 Jugador
-	- Daño
-	- Timer/timeout
-	- Alcanzar meta
+	- Daño (mensaje)
+	- Alcanzar meta/Cambio de nivel
 
 
 Enemigos
