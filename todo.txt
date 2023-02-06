@@ -4,12 +4,6 @@ VISTAS
 - Fin de partida/Siguiente nivel
 - Diseño de niveles
 
-ENTIDADES
-
-Jugador
-	- Daño (mensaje)
-	- Alcanzar meta/Cambio de nivel
-
 SONIDO
 - Movimiento y salto
 - Impacto
