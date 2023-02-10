@@ -1,6 +1,4 @@
 VISTAS
-- Pantalla de inicio
-- Menú de pausa
 - Fin de partida/Siguiente nivel
 - Diseño de niveles
 
