@@ -4,7 +4,5 @@ VISTAS
 SONIDO
 - Movimiento y salto
 - Impacto
-- Recoger moneda
 - Música de menú
-- Música de juego
 - Música de muerte
