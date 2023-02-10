@@ -1,5 +1,4 @@
 VISTAS
-- Fin de partida/Siguiente nivel
 - Diseño de niveles
 
 SONIDO
@@ -8,3 +7,4 @@ SONIDO
 - Recoger moneda
 - Música de menú
 - Música de juego
+- Música de muerte
