@@ -2,7 +2,6 @@ VISTAS
 - Diseño de niveles
 
 SONIDO
-- Movimiento y salto
 - Impacto
 - Música de menú
 - Música de muerte
