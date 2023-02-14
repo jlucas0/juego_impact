@@ -1,10 +1,2 @@
 VISTAS
-- Fin de partida/Siguiente nivel
 - Diseño de niveles
-
-SONIDO
-- Movimiento y salto
-- Impacto
-- Recoger moneda
-- Música de menú
-- Música de juego
