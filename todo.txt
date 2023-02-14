@@ -1,6 +1,2 @@
 VISTAS
 - Diseño de niveles
-
-SONIDO
-- Música de menú
-- Música de muerte
